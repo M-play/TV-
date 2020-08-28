@@ -1,8 +1,2 @@
-<item>
-<title>[B]GLOBO[/B]</title>
-<link>https://mercedes-brazil.azureedge.net/hls1/boborj-56751.ts</link>
-<thumbnail>capa</thumbnail>
-<fanart>"</fanart>
-<info>informacao</info>
-<genre></genre>
-</item>
+#EXTINF:-1 tvg-logo="LINK DA CAPA DO FILME" group-title="CANAIS ABERTO", TV GLOBO
+https://mercedes-brazil.azureedge.net/hls1/boborj-56751.ts
